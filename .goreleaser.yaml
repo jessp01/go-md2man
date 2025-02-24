@@ -54,6 +54,7 @@ nfpms:
       Markdown to ROFF converter
       A CLI utility which, as the name implies, generates man pages
       from Markdown.
+    maintainer: go-md2man
     license: MIT
     vendor: go-md2man
     bindir: /usr/bin
