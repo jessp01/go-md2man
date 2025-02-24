@@ -56,7 +56,6 @@ nfpms:
       from Markdown.
     license: MIT
     vendor: go-md2man
-    maintainer: go-md2man
     bindir: /usr/bin
     section: utils
     contents:
